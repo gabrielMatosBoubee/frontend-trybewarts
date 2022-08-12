@@ -4,7 +4,7 @@ const password = document.getElementById('senha');
 const botaoEnviar = document.getElementById('submit-btn');
 const aceitar = document.getElementById('agreement');
 const caracteres = document.getElementById('counter');
-const comentarioCampo = document.getElementById('area-texto');
+const comentarioCampo = document.getElementById('textarea');
 
 function verificarLogin() {
   if (email.value === 'tryber@teste.com' && password.value === '123456') {
