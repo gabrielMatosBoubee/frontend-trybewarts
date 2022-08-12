@@ -5,7 +5,7 @@
   flex-wrap: wrap;
 }
 
-body {
+body {/* stylelint-disable-next-line function-url-quotes */
   background-image: url(/fotoDeFundo.jpg);
 }
 
