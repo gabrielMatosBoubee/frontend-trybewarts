@@ -5,8 +5,8 @@
   flex-wrap: wrap;
 }
 
-body {/* stylelint-disable-next-line function-url-quotes */
-  background-image: url(/fotoDeFundo.jpg);
+body {
+  background-image: url('/fotoDeFundo.jpg');
 }
 
 .header {
