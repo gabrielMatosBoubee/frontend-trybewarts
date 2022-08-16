@@ -106,7 +106,7 @@ function gerarAvaliacao() {
       dataObject.avaliacao = arrayAvaliacao[index].value;
     }
   }
-// console.log(arrayAvaliacao);
+  // console.log(arrayAvaliacao);
 }
 function gerarObservacao() {
 // Criando valor para observação que é digitada no textarea
